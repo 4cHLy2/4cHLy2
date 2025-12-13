@@ -1,4 +1,4 @@
-# 🦊✨ One-Tailed Kitsune & Archmage Warlock
+# One-Tailed Kitsune & Archmage Warlock
 
 > *"Sometimes I break things just to see if I can bind the chaos to my will."*
 
@@ -24,10 +24,6 @@ My home-grown IT sorcery operates on a principle as old as magic itself: **conta
 - **Proxmox & vSphere** summon virtual sanctuaries where experiments flourish without touching the material plane
 - **TrueNAS** guards the vaults—data at rest, encrypted and replicated
 
-**Infrastructure Prophecy** *(Planned Rituals)*
-- **Ansible Automation** shall orchestrate configurations across the realm—declarative incantations to bind servants to purpose
-- **ArgoCD** will manifest gitops declarations into reality—code becomes being
-
 ---
 
 ## 🔮 Arsenal of the Archmage
@@ -40,37 +36,7 @@ My home-grown IT sorcery operates on a principle as old as magic itself: **conta
 | 🕸️ | **Calico** | Zero-trust network sorcery with eBPF |
 | 🖥️ | **Proxmox** | Virtual sanctum materializer |
 | 💾 | **TrueNAS** | Data vault with encryption runes |
-| 🐧 | **NyArch / Kali Linux** | Pentesting & system incantations |
 | 📊 | **Gitea** | Homelab grimoire documentation |
-| 🍎 | **macOS** | The silver dagger in the arsenal |
-
----
-
-## 🧪 The Experiments
-
-This lab is **alive and evolving**. Experiments happen in isolation. Failures are contained. Successes are replicated. Everything is bound by these principles:
-
-- **Sandboxed Rituals** 🧪 — Test forbidden arts in Docker containers and ephemeral environments
-- **Microsegmented Coven** 🔮 — Each service knows only its purpose; traffic routed through eBPF, isolation enforced via Calico and Unifi VLANs
-- **Network Divination** 🔍 — OPNsense DPI observes, logs, alerts before chaos spreads
-- **Gitops Configuration** ✨ — YAML declared, versioned, awaiting ArgoCD manifestation
-
----
-
-## 📜 The Pacts Binding This Realm
-
-- **Zero Trust by Design** — No entity is inherently trusted; all traffic is inspected, all access is earned
-- **Immutability Where Possible** — Talos nodes cannot be corrupted; they are discarded and summoned anew
-- **Observability is Prerequisite** — What cannot be measured cannot be controlled
-- **Chaos is a Teacher** — Break things, learn, rebuild stronger
-
----
-
-## 🌙 A Word from the Warlock
-
-This is my playground. My laboratory. My grimoire made manifest. Here, infrastructure becomes art. Security becomes obsession. And the boundary between "why would you do that?" and "absolutely genius" blurs like smoke.
-
-If you wander these halls, tread carefully. Touch nothing without understanding. And if you find something broken, well... consider it an invitation to fix it. 🦊✨
 
 ---
  
