@@ -1,4 +1,4 @@
-# One-Tailed Kitsune & Archmage Warlock
+# One-Tailed Kitsune Sorcerer
 
 > *"Sometimes I break things just to see if I can bind the chaos to my will."*
 
